@@ -3,4 +3,4 @@
 	url = https://github.com/SwiftyJSON/SwiftyJSON.git
 [submodule "Alamofire"]
 	path = Alamofire
-	url = https://github.com/Alamofire/Alamofire.git
+	url = git@github.com:adamszeptycki/Alamofire.git
